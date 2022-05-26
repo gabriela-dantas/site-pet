@@ -1,0 +1,109 @@
+header{
+position: absolute;
+width: 100%;
+height: 79px;
+left: 0px;
+top: 0px;
+background: #5E2BFF;
+}
+
+.logo-menu{
+    position: absolute;
+    width: 398px;
+    height: 85px;
+    left: 50px;
+    top: 16px;      
+}
+.logo{
+    width: 13.1rem;
+}
+.pata{
+    position: absolute;
+    left: 69.31%;
+    right: 27%;
+    top: 30.44%;
+    bottom: 96.31%;
+    width: 2.1rem;
+}
+.texto-login{
+    position: absolute;
+    width: 6.1rem;
+    height: 56px;
+    left: 73%;
+    top: 6px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    color: #F4F4F5;
+}
+
+.caixa{
+    position: absolute;
+    left: 82.32%;
+    right: 11.38%;
+    top: 30.44%;
+    bottom: 96.31%;
+    width: 2.1rem;
+}
+.carrinho {
+    position: absolute;
+    left: 87%;
+    right: 4.7%;
+    top: 32.44%;
+    bottom: 96.31%;
+    width: 2.1rem;
+
+}
+.menu-lista{
+    position: absolute;
+    width: 563px;
+    height: 34px;
+    left: 474px;
+    top: 76px;
+    text-align: center;
+}
+.conteudo-lista li{
+    display: inline-block;
+    padding: 6px;
+}
+.conteudo-lista a{
+    text-decoration: none;
+    color: #F06DA9;
+    font-size: large;
+}
+.conteudo-lista a:hover{
+    color: #5E2BFF;
+   text-decoration: underline;
+}
+.pesquisa{
+    box-sizing: border-box;
+    border: 2px solid #8159FF;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: top;
+    margin: -7px 16.5%;
+    width: min-content;
+    padding: 3px 9px 4px 381px;
+    width: 26.1rem;
+}
+.images{
+    display: inline;
+}
+.seta-esquerda{
+    position:absolute;
+    top: 261px;
+    margin: 24px 25px;
+}
+.banner{
+    position: absolute;
+    width: 63rem;
+    margin: 174px 0 1px 122px;
+}
+.seta-direita{
+    position: absolute;
+    top: 285px;
+    /* left: 94%; */
+    margin: 2px 0 0 1171px;
+}
